@@ -11,6 +11,8 @@ Here, this function generates number - 1,2 & 3. Because this function, say **int
 generates number starting from 0(incluisve) and n(exclusive). If **1** is added to the function then, the range shifts from **1-n**
 However, we can use numbers-0,1 & 2 but for better representation I have used numbers starting from 1.
 
+The code file is attached to this repository.
+
 This code efficiently satisfies the main motive of the **ROCK-PAPER-SCISSORS GAME.**
 
 The output is as follows for the following code:
